@@ -7,7 +7,10 @@ import TriviaCategoryCard from '@/components/TriviaCategoryCard';
 export const dynamic = 'force-dynamic';
 export const revalidate = 0;
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4a3d82b979d13b38bb2cacee78a9172134346770
 
 export default async function TriviaIndex({ params }: { params: { code: string } }) {
   const hub = await prisma.gameHub.findUnique({ where: { code: params.code.toUpperCase() } });

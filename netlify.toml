@@ -3,4 +3,8 @@
   publish = ".next"
 
 [[plugins]]
+<<<<<<< HEAD
   package = "@netlify/plugin-nextjs"
+=======
+  package = "@netlify/plugin-nextjs"
+>>>>>>> 4a3d82b979d13b38bb2cacee78a9172134346770
