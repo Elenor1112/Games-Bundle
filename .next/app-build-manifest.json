@@ -1,35 +1,165 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/_not-found/page-439ca462eb3f557f.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/css/758a2ffa4248ec98.css",
+      "static/chunks/app/layout-df608463799466e8.js"
     ],
-    "/quest/[code]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/quest/[code]/page.js"
+    "/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/app/page-0e87596096c6266a.js"
+    ],
+    "/quest/[code]/puzzle/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/app/quest/[code]/puzzle/page-9805c782edaee7bb.js"
     ],
     "/quest/[code]/not-found": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/quest/[code]/not-found.js"
-    ],
-    "/quest/[code]/trivia/[categoryId]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/quest/[code]/trivia/[categoryId]/page.js"
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/app/quest/[code]/not-found-cd71aa469341f1af.js"
     ],
     "/leaderboard/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/leaderboard/page.js"
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/app/leaderboard/page-c1d15ac42732c01a.js"
+    ],
+    "/quest/[code]/trivia/[categoryId]/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/app/quest/[code]/trivia/[categoryId]/page-1ca88519cd259c89.js"
+    ],
+    "/quest/[code]/trivia/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/app/quest/[code]/trivia/page-3a9605116be41361.js"
+    ],
+    "/quest/[code]/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/app/quest/[code]/page-f29dfd8cabd894a0.js"
+    ],
+    "/admin/app-settings/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/admin/app-settings/page-8b722844ff1e8c91.js"
+    ],
+    "/admin/layout": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/574-9e112e288d21c4af.js",
+      "static/chunks/app/admin/layout-03c73ee9a88b5a00.js"
+    ],
+    "/admin/players/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/admin/players/page-1aa03ffec40c759e.js"
+    ],
+    "/admin/puzzles/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/admin/puzzles/page-d193f15d0c3538c4.js"
+    ],
+    "/admin/qr-generator/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/app/admin/qr-generator/page-724ab416cf5a6b26.js"
+    ],
+    "/admin/game-hubs/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/admin/game-hubs/page-05802d384926400f.js"
+    ],
+    "/admin/dashboard/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/972-e47a124367616dbb.js",
+      "static/chunks/574-9e112e288d21c4af.js",
+      "static/chunks/512-2c2f8de4ada2ddad.js",
+      "static/chunks/app/admin/dashboard/page-e45349672a542748.js"
+    ],
+    "/admin/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/admin/page-8e5f942837b7f3b8.js"
+    ],
+    "/admin/submissions/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/admin/submissions/page-ee7ad2d90a8455c7.js"
+    ],
+    "/admin/trivia-categories/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/admin/trivia-categories/page-9bde3b901a7cad54.js"
+    ],
+    "/admin/photo-puzzles/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/admin/photo-puzzles/page-9189c8b527778366.js"
+    ],
+    "/admin/trivia-questions/page": [
+      "static/chunks/webpack-821c98adf92a66ee.js",
+      "static/chunks/fd9d1056-83811740eb3c2b2a.js",
+      "static/chunks/117-32a227b26014ba33.js",
+      "static/chunks/main-app-3be23e83be77763a.js",
+      "static/chunks/app/admin/trivia-questions/page-387c37e9c9406f1d.js"
     ]
   }
 }
